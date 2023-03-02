@@ -16,5 +16,8 @@
   "bugs": {
     "url": "https://github.com/Sustavo/Learning-TypeScript/issues"
   },
-  "homepage": "https://github.com/Sustavo/Learning-TypeScript#readme"
+  "homepage": "https://github.com/Sustavo/Learning-TypeScript#readme",
+  "devDependencies": {
+    "typescript": "^4.9.5"
+  }
 }
