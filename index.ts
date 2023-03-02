@@ -1,5 +1,8 @@
-function greet(name: string) {
-    return `Olá ${name}`;
+const Teste = (nome: string) => {
+    return "Olá " + nome;
 }
 
-console.log(greet('Gongas'))
+console.log(
+Teste("Gustavo")
+
+)
